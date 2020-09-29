@@ -12,6 +12,6 @@ ${SPARK_HOME}/bin/spark-submit \
     [<csvfile>]
 ```
 
-1. csvfile - csv file with columns "first_name", "last_name", "address" and "dat_of_birth"
+1. csvfile - csv file with columns "first_name", "last_name", "address" and "date_of_birth"
 
-2. default value - "data_1mb.csv" - a csv file of size 1mb with the above 4 fields - random dataset generated using https://github.com/kavyabuvarma/datasetgen
+2. default value - "data_1mb.csv", a csv file of size 1mb with the above 4 fields (random dataset generated using https://github.com/kavyabuvarma/datasetgen)
